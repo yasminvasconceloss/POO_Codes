@@ -12,7 +12,7 @@ public class Main {
 
         salgado1.nome = "Pão de queijo";
         salgado2.nome = "Pizza";
-        salgado3.nome = "Chocolate";
+        salgado3.nome = "Coxinha";
 
         cantina.addSalgados(salgado1);
         cantina.addSalgados(salgado2);
