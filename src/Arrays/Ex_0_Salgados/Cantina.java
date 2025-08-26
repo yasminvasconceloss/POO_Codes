@@ -3,7 +3,7 @@ package Arrays.Ex_0_Salgados;
 public class Cantina {
 
     String nome;
-    Salgado[] salgados = new Salgado[5];
+    Salgado[] salgados = new Salgado[5]; //array
 
     void addSalgados(Salgado novoSalgado){
         for(int i = 0; i < salgados.length; i++){//Varrendo o array de salgados
